@@ -16,6 +16,8 @@ Results of this CNN Model:
 
 ![Screenshot 2025-03-15 160859](https://github.com/user-attachments/assets/43be709d-5f5c-4f78-a3a8-6e5583975b5c)
 ![Screenshot 2025-03-15 160913](https://github.com/user-attachments/assets/109ffd3c-c78e-41dc-828a-ca5d55599921)  
+![image](https://github.com/user-attachments/assets/30ad4bcc-bbda-4af0-95d2-094183ca3ad4)
+
 
 Confusion Matrix of CNN Model:  
 
@@ -31,17 +33,17 @@ Implemented **VGG16**, **MobileNet**, and **ResNet50** for feature extraction an
 
 VGG16 Confusion Matrix:  
 
+![image](https://github.com/user-attachments/assets/84a77ada-6a59-4032-9ec4-b957fbaa18e9)
 ![vgg16](https://github.com/user-attachments/assets/62f6f2eb-e299-4801-a04e-373334908d0e)  
 
 MobileNet Confusion Matrix:  
 
+![image](https://github.com/user-attachments/assets/2465c7ac-6061-4b99-a68d-69ce8fec3553)
 ![mobilenet](https://github.com/user-attachments/assets/fd8684ed-6096-41db-870a-27381bf83d0c)  
 
 Resnet50 Confusion Matrix:  
 
+![image](https://github.com/user-attachments/assets/3f841481-09a7-4954-996d-62df84fde539)
 ![resnet50](https://github.com/user-attachments/assets/9e093458-0348-4cba-b8da-b0c060d193a6)  
 
-**Neckline_Classifier_Model_Testing.ipynb**
-Loads trained models and performs inference on test datasets.
-Evaluates performance using precision, recall, and confusion matrices.
-Includes visualizations of predictions.
+
