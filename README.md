@@ -1,4 +1,4 @@
-# NecklineClassifier
+# Neckline Classifier
 
 The primary goal of this project is to classify different types of necklines in fashion images using deep learning models. The project includes:  
 
