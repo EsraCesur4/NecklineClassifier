@@ -3,11 +3,12 @@
 The primary goal of this project is to classify different types of necklines in fashion images using deep learning models. The project includes:  
 
 Files in This Repository
-**CNN_MODEL_for_Neckline_Classification.ipynb**
-Implements a CNN architecture for classifying necklines.  
-This CNN consists of 4 convolutional layers, each followed by max pooling.  
-Uses two fully connected layers with dropout for regularization.  
-The final dense layer outputs 3 class probabilities using softmax activation.  
+**CNN_MODEL_for_Neckline_Classification.ipynb**  
+
+Implements a CNN architecture for classifying necklines: 
+- This CNN consists of 4 convolutional layers, each followed by max pooling.  
+- Uses two fully connected layers with dropout for regularization.  
+- The final dense layer outputs 3 class probabilities using softmax activation.  
 ![image](https://github.com/user-attachments/assets/39a6efdf-5b8a-40be-ac25-d804df7c83df)
 
 **Neckline_Classification_Models_with_Oversampling.ipynb**
